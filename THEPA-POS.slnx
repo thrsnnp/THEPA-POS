@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="THEPA-POS.Data/THEPA-POS.Data.csproj" Id="0deb1f8f-03da-4b58-87c9-4a43ec1c355e" />
+  <Project Path="THEPA-POS.Domain/THEPA-POS.Domain.csproj" Id="ebb25269-cdb1-4c69-8534-816c46808d38" />
+  <Project Path="THEPA-POS.Services/THEPA-POS.Services.csproj" Id="75b3975f-cd26-4b15-869b-c779ddd49ff7" />
+  <Project Path="THEPA-POS/THEPA-POS.csproj" Id="81c48c25-34aa-4eef-a473-601c3717f2c6" />
+</Solution>
